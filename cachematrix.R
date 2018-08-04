@@ -21,7 +21,7 @@ get <- function() x
 
 }
 ## Write a short comment describing this function
-
+## This function first time will retutn inverse by setting it to x variable
 
 cacheSolve <- function(x, ...) {
     inv <- x$getinverse()
